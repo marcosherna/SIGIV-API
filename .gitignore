@@ -1,0 +1,14 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo .env que contiene las variables de entorno
+.env
+
+# Ignorar la carpeta de salida de TypeScript
+dist/
+
+# Ignorar los archivos de registro de depuración de VS Code
+.vscode
+
+# Ignorar los archivos de registro de npm
+npm-debug.log*
